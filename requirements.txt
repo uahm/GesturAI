@@ -1,0 +1,10 @@
+python 3.10
+OpenCV
+cvzone
+cv2
+google.generativeai
+PIL
+streamlit
+HandDetector
+numpy
+Image
