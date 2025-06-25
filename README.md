@@ -27,14 +27,14 @@
 # ⚙️ Installation
 
 1. **Clone the repository**
-git clone https://github.com/uahm/GesturAI.git
-cd gesture-math-solver
+-> git clone https://github.com/uahm/GesturAI.git
+-> cd gesture-math-solver
 3. **Install Dependencies**
-pip install -r requirements.txt
+-> pip install -r requirements.txt
 5. **Set your Google Gemini API Key**
-genai.configure(api_key="YOUR_API_KEY_HERE")
+-> genai.configure(api_key="YOUR_API_KEY_HERE")
 7. **Run Application**
-streamlit run app.py
+-> streamlit run app.py
 
 ---
 
